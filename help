@@ -1,0 +1,13 @@
+CREATE NEW REPOSITORY
+
+echo "# ETSINF" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Masanmas/ETSINF.git
+git push -u origin master
+
+PUSH SOMETHING
+
+git remote add origin https://github.com/Masanmas/ETSINF.git
+git push -u origin master
